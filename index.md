@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## 欢迎来到 宝宝练习穿衣服记录工具
 
-You can use the [editor on GitHub](https://github.com/beni520/BabiesPracticeDressingRecord/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+在宝宝慢慢成长的过程中，父母和家人也会慢慢的教宝宝学会自己独立穿衣服。宝宝需要比较多的时间来学会这项技能，当然，这也需要家长们耐心的帮助宝宝。我们可以利用这款应用，给宝宝制定适当的练习穿衣服的时间，练习的时间间隔。我们还可以记录宝宝练习穿衣服的熟练程度和收获，帮助宝宝更快的学会独立穿衣服这项技能。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+如果您遇到什么需要解答的问题，请发送您的问题到以下邮箱。
 
-# Header 1
-## Header 2
-### Header 3
+我们将第一时间为您解答。
 
-- Bulleted
-- List
+### 邮箱地址: zhanghesongyuan7@126.com
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/beni520/BabiesPracticeDressingRecord/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+谢谢！
